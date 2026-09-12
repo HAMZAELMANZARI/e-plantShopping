@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Aloe plant">
+  <defs>
+    <linearGradient id="bg3" x1="0" x2="1">
+      <stop offset="0%" stop-color="#edfbee"/>
+      <stop offset="100%" stop-color="#dff5dd"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg3)"/>
+  <ellipse cx="200" cy="270" rx="120" ry="20" fill="#cfeac8"/>
+  <rect x="188" y="118" width="24" height="116" rx="12" fill="#7b5a3f"/>
+  <g fill="#6eb987">
+    <path d="M160 100 C140 80, 130 120, 145 150 C165 180, 188 160, 190 126 C180 108, 170 104, 160 100 Z"/>
+    <path d="M240 100 C260 80, 270 120, 255 150 C235 180, 212 160, 210 126 C220 108, 230 104, 240 100 Z"/>
+    <path d="M150 136 C120 120, 112 176, 142 196 C174 211, 191 182, 188 152 C176 144, 165 140, 150 136 Z"/>
+    <path d="M250 136 C280 120, 288 176, 258 196 C226 211, 209 182, 212 152 C224 144, 235 140, 250 136 Z"/>
+    <path d="M200 82 C175 60, 164 110, 180 128 C195 110, 198 94, 200 82 Z"/>
+    <path d="M200 82 C225 60, 236 110, 220 128 C205 110, 202 94, 200 82 Z"/>
+  </g>
+</svg>

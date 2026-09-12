@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Lavender plant">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#eefaf3"/>
+      <stop offset="100%" stop-color="#dff5e7"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <ellipse cx="200" cy="270" rx="120" ry="20" fill="#c9e9cf"/>
+  <rect x="188" y="120" width="24" height="110" rx="12" fill="#7a5a3a"/>
+  <g fill="#7dbb8d">
+    <path d="M200 80 C150 55, 140 110, 176 128 C191 106, 194 88, 200 80 Z"/>
+    <path d="M200 80 C250 55, 260 110, 224 128 C209 106, 206 88, 200 80 Z"/>
+    <path d="M200 98 C155 70, 145 140, 178 156 C188 124, 193 110, 200 98 Z"/>
+    <path d="M200 98 C245 70, 255 140, 222 156 C212 124, 207 110, 200 98 Z"/>
+    <path d="M200 122 C168 95, 160 170, 188 185 C194 150, 196 135, 200 122 Z"/>
+    <path d="M200 122 C232 95, 240 170, 212 185 C206 150, 204 135, 200 122 Z"/>
+  </g>
+  <g fill="#b9d7a1">
+    <circle cx="164" cy="122" r="10"/>
+    <circle cx="236" cy="130" r="10"/>
+    <circle cx="176" cy="150" r="9"/>
+    <circle cx="222" cy="148" r="9"/>
+  </g>
+  <g fill="#c8a2d8">
+    <circle cx="150" cy="112" r="8"/>
+    <circle cx="250" cy="118" r="8"/>
+    <circle cx="168" cy="88" r="7"/>
+    <circle cx="230" cy="88" r="7"/>
+    <circle cx="200" cy="70" r="7"/>
+  </g>
+</svg>
